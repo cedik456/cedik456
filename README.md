@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Figma**
 
-- 💬 Ask me about **Html, Css and Javascript**
+- 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **lawrenzuio@gmail.com**
 
