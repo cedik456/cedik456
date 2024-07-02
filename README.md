@@ -5,15 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cedik456&label=Profile%20views&color=0e75b6&style=flat" alt="cedik456" /> </p>
 
-- 🔭 I’m currently studying on **DWCL**
-
-- 🌱 I’m currently learning **Figma**
+- 🌱 I’m currently learning **JavaScript Frameworks**
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
 - 📫 How to reach me **lawrenzuio@gmail.com**
-
-- ⚡ Fun fact **I am a sporty person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
