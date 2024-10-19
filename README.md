@@ -1,4 +1,4 @@
-###  
+# Hey there! I'm Cedric Lawrence D. Nano 👋
   
 
 - 🔭 I’m currently working on  
