@@ -2,7 +2,7 @@
 
 #### A Front-end Developer who loves to learn new things
 
-A Student at [Divine Word College of Legazpi](https://www.dwcl.edu.ph)
+A Student at [Divine Word College of Legazpi](https://www.dwc-legazpi.edu/)
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
