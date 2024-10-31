@@ -1,7 +1,5 @@
 
 
-### Hi 👋
-
 #### A Front-end Developer who loves to learn new things
 
 A Student at Divine Word College of Legazpi<br>
