@@ -1,6 +1,6 @@
 
 
-#### A Web Developer who loves to learn new things
+#### A guy who loves to learn new things
 
 A Student at [Divine Word College of Legazpi](https://www.dwc-legazpi.edu/)
 <br>
