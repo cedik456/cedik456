@@ -1,6 +1,6 @@
 
 
-#### A guy who loves to learn new things
+#### A guy who loves to learn and explore new things
 
 A Student at [Divine Word College of Legazpi](https://www.dwc-legazpi.edu/)
 <br>
