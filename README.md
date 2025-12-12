@@ -1,4 +1,4 @@
-<h3 align="left">Languages and Tools</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
   <!-- Figma -->
@@ -42,4 +42,43 @@
   </a>
 
   <!-- React Native -->
-  <a href="https://reactnative.dev/
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="reactnative" width="40" height="40"/>
+  </a>
+
+  <!-- Expo -->
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" alt="expo" width="40" height="40"/>
+  </a>
+
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+
+  <!-- Node.js -->
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+
+  <!-- Express -->
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  </a>
+
+  <!-- Firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+
+  <!-- MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+
+  <!-- MongoDB Atlas -->
+  <a href="https://www.mongodb.com/atlas" target="_blank" rel="noreferrer" style="text-decoration: none;">
+    <img src="https://www.svgrepo.com/show/373845/mongodb.svg" alt="mongodb atlas" width="40" height="40"/>
+  </a>
+
+</p>
