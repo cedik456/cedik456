@@ -76,9 +76,5 @@
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   </a>
 
-  <!-- MongoDB Atlas -->
-  <a href="https://www.mongodb.com/atlas" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <img src="https://www.svgrepo.com/show/373845/mongodb.svg" alt="mongodb atlas" width="40" height="40"/>
-  </a>
-
+ 
 </p>
