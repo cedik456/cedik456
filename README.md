@@ -46,20 +46,11 @@
   <a href="https://supabase.com/">
     <img src="https://avatars.githubusercontent.com/u/54469796?s=200&v=4" width="40"/>
   </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-  </a>
   <a href="https://reactnative.dev/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   </a>
   <a href="https://expo.dev/">
     <img src="https://cdn.worldvectorlogo.com/logos/expo-1.svg" width="40"/>
-  </a>
-  <a href="https://flutter.dev/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-  </a>
-  <a href="https://www.php.net/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
   </a>
   <a href="https://git-scm.com/">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
